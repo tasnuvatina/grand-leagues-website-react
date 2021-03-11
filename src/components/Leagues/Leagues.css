@@ -1,0 +1,41 @@
+.all-leagues{
+    display: grid;
+    justify-items: center;
+    align-items: start;
+    padding: 5% 10%;
+    background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .all-leagues{
+        grid-template-columns: 1fr ;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .all-leagues{
+        grid-template-columns: 1fr ;
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .all-leagues{
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .all-leagues{
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .all-leagues{
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}

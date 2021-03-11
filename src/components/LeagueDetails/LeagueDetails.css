@@ -1,0 +1,87 @@
+.league-details {
+    background-color: #343a40;
+}
+
+.banner-style {
+    width: 100%
+}
+
+.league-logo-div {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.league-description {
+    color: #fff;
+    text-align: justify;
+    width: 80%;
+    margin: auto;
+    padding: 0px 0px 20px;
+}
+
+.icon-div {
+    display: flex;
+    font-size: 2.8rem;
+    justify-content: center;
+}
+
+.social-icon {
+    margin: 0px 20px;
+}
+
+
+.facebook {
+    color: #4267B2;
+}
+.facebook:hover{
+    color: #6391ee;
+}
+
+.twitter {
+    color: #1DA1F2;
+}
+.twitter:hover {
+    color: #78c7f8;
+}
+
+.youtube {
+    color: #FF0000;
+}
+.youtube:hover {
+    color: #ff3a3a;
+}
+
+.website {
+    color: #fdfb6a;
+}
+.website:hover {
+    color: #fdfb8f;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .league-logo {
+        width: 50%;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .league-logo {
+        width: 50%;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .league-logo {
+        width: 40%;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .league-logo {
+        width: 30%;
+    }
+}

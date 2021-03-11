@@ -1,0 +1,59 @@
+.league-primary-info{
+    justify-content: space-between;
+    background-color: #c23838;
+    border-radius: 15px;
+    width: 80%;
+    margin:30px auto 0px;
+    padding: 20px;
+}
+.league-info{
+    color:#fff;
+    line-height: 5px;
+}
+.league-info h2{
+    margin-bottom: 20px;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .league-info{
+        width: 100%;
+    }
+    .male-female-image{
+        width: 100%;
+        padding-top: 30px;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .league-info{
+        width: 100%;
+    }
+    .male-female-image{
+        width: 100%;
+        padding-top: 30px;
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .league-info{
+        width: 100%;
+    }
+    .male-female-image{
+        width: 100%;
+        padding-top: 30px;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .league-primary-info{
+        display: flex;
+    }
+    .male-female-image{
+        width:450px;
+        padding-top: 0px;
+    }
+}
