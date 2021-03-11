@@ -16,9 +16,10 @@ In this web application anyone can learn about famous sport leages.the details a
 * react-bootstrap
  
 ## Screenshots
-Include logo/demo screenshot etc.
-[![js-standard-style](https://images.pexels.com/photos/1804035/pexels-photo-1804035.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)]
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)]
+
+[![js-standard-style](../../)]
+![Screenshot]("https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8c2ltcGxlfGVufDB8fDB8&ixlib=rb-1.2.1&w=1000&q=80")
+
 
 ## Installation and Setup Instructions
 
@@ -42,7 +43,7 @@ To Visit App:
 
 ## API Reference
 
-API link : "https://www.thesportsdb.com/api.php"
+API link : https://www.thesportsdb.com/api.php
 
 ## Tests
 Describe and show how to run the tests with code examples.
