@@ -1,0 +1,25 @@
+
+let FakeGallery=[{"id":1,"image":"https://www.thesportsdb.com/images/media/league/poster/v8d7nf1535455996.jpg","imagecaption":"Premier League"},
+{"id":2,"image":"https://www.thesportsdb.com/images/media/league/poster/wkn6l81506287388.jpg","imagecaption":"Championship"},
+{"id":3,"image":"https://www.thesportsdb.com/images/media/league/poster/n1hv751550054524.jpg","imagecaption":"Stringtough"},
+{"id":4,"image":"https://www.thesportsdb.com/images/media/league/poster/vpywqp1454010354.jpg","imagecaption":"Zathin"},
+{"id":5,"image":"https://www.thesportsdb.com/images/media/league/poster/i8qu9h1546179277.jpg","imagecaption":"Zontrax"},
+{"id":6,"image":"https://www.thesportsdb.com/images/media/league/poster/xhr9ln1560868760.jpg","imagecaption":"Solarbreeze"},
+{"id":7,"image":"https://www.thesportsdb.com/images/media/league/poster/wxrvyp1454014752.jpg","imagecaption":"Viva"},
+{"id":8,"image":"https://www.thesportsdb.com/images/media/league/fanart/vqvtsy1422295448.jpg","imagecaption":"Vagram"},
+{"id":9,"image":"https://www.thesportsdb.com/images/media/league/fanart/rusupv1425356627.jpg","imagecaption":"Viva"},
+{"id":10,"image":"https://www.thesportsdb.com/images/media/league/fanart/xtpvqu1422244531.jpg","imagecaption":"Toughjoyfax"},
+{"id":11,"image":"https://www.thesportsdb.com/images/media/league/fanart/wwrsyp1421421940.jpg","imagecaption":"Span"},
+{"id":12,"image":"https://www.thesportsdb.com/images/media/league/fanart/5teumz1610651140.jpg","imagecaption":"Y-find"},
+{"id":13,"image":"https://www.thesportsdb.com/images/media/league/poster/o3inli1576153008.jpg","imagecaption":"Toughjoyfax"},
+{"id":14,"image":"https://www.thesportsdb.com/images/media/league/poster/upsqts1454015303.jpg","imagecaption":"Span"},
+{"id":15,"image":"https://www.thesportsdb.com/images/media/league/poster/apvpl91610916447.jpg","imagecaption":"Treeflex"},
+{"id":16,"image":"https://www.thesportsdb.com/images/media/league/fanart/vvvuqp1422247260.jpg","imagecaption":"Tin"},
+{"id":17,"image":"https://www.thesportsdb.com/images/media/league/poster/wncl5l1580247811.jpg","imagecaption":"Duobam"},
+{"id":18,"image":"https://www.thesportsdb.com/images/media/league/fanart/tqrqrq1426204834.jpg","imagecaption":"Toughjoyfax"},
+{"id":19,"image":"https://www.thesportsdb.com/images/media/league/fanart/ttruus1422395847.jpg","imagecaption":"Y-find"},
+{"id":20,"image":"https://www.thesportsdb.com/images/media/league/poster/3d0fzk1547476123.jpg","imagecaption":"Konklux"},
+{"id":21,"image":"https://www.thesportsdb.com/images/media/league/poster/u2nq2h1610715406.jpg","imagecaption":"Daltfresh"},
+{"id":22,"image":"https://www.thesportsdb.com/images/media/league/poster/qy9o701560762715.jpg","imagecaption":"Stringtough"}]
+
+export default FakeGallery;

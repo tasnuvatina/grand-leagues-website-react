@@ -5,6 +5,8 @@ import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import LeagueDetails from "./components/LeagueDetails/LeagueDetails";
 import Navbar from "./components/Navbar/Navbar";
 import Footer from "./components/Footer/Footer";
+import Events from "./components/Events/Events";
+import Gallery from "./components/Gallery/Gallery";
 
 function App() {
   return (
@@ -18,10 +20,10 @@ function App() {
           <Home />
         </Route>
         <Route path="/events">
-          <Home />
+          <Events />
         </Route>
         <Route path="/gallery">
-          <Home />
+          <Gallery />
         </Route>
         <Route path="/league/:leagueId">
           <LeagueDetails></LeagueDetails>

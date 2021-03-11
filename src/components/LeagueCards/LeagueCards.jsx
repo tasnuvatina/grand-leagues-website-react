@@ -18,7 +18,7 @@ const LeagueCards = (props) => {
       <Card className="card-div" style={{ borderRadius: "10px" }}>
         <LeagueBadge idLeague={idLeague}></LeagueBadge>
         <Card.Body>
-          <Card.Title>{strLeague}</Card.Title>
+          <Card.Title>{strLeague},{idLeague}</Card.Title>
           <Card.Text>Sport type :{strSport}</Card.Text>
           <button
             onClick={() => showLeagueDetail(idLeague)}

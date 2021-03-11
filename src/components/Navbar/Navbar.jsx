@@ -1,7 +1,7 @@
 import React from "react";
 import "./Navbar.css";
 import image from "../../images/85dd20d6-66fc-4b7e-8825-50d2b7d02261_200x200.png";
-import { Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
 const Navbar = () => {
   return (
@@ -12,19 +12,19 @@ const Navbar = () => {
       <div className="navlist-div">
         <ul className="nav-ul">
           <li>
-            <Link className="navlink" to="/home">
+            <NavLink className="navlink" to="/home" activeClassName="navlink-active" >
               <span>Home</span>
-            </Link>
+            </NavLink>
           </li>
           <li>
-            <Link className="navlink" to="/events">
+            <NavLink className="navlink" to="/events" activeClassName="navlink-active">
               <span>Events</span>
-            </Link>
+            </NavLink>
           </li>
           <li>
-            <Link className="navlink" to="/gallery">
+            <NavLink className="navlink" to="/gallery" activeClassName="navlink-active">
               <span>Gallery</span>
-            </Link>
+            </NavLink>
           </li>
         </ul>
       </div>
@@ -33,3 +33,4 @@ const Navbar = () => {
 };
 
 export default Navbar;
+

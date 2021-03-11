@@ -31,17 +31,16 @@ const LeagueDetails = () => {
     strYoutube,
     strLogo,
   } = leagueDetail;
-  console.log(strFacebook);
-  console.log(strTwitter);
-  console.log(strYoutube);
-  console.log(strWebsite);
+
   let newLink = "" + strFacebook;
-  console.log(newLink);
+
   return (
     <div className="league-details">
       <img src={strBanner} alt="" className="banner-style" />
       <LeagueInfoCard leagueDetail={leagueDetail}></LeagueInfoCard>
-      <div className="league-logo-div"><img src={strLogo} alt="" className="league-logo"/></div>
+      <div className="league-logo-div">
+        <img src={strLogo} alt="" className="league-logo" />
+      </div>
       <div className="league-description">
         <p>
           <strong>English :</strong>
