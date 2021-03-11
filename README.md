@@ -1,14 +1,19 @@
-## Project title
-A little info about your project and/ or overview that explains **what** the project is about.
+# React Router project
+A web  application created with html,css,javascript,react,react-bootstrap.
 
-## Motivation
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+## Features
+In this web application anyone can learn about famous sport leages.the details about the sport leagues are also available in the website.They can easily access to any of the sport leagues social media and official website by clicking the icons on their own detal page.Visitors can also know about recent events organised by those leagues and their posters.
 
-## Build status
-Build status of continus integration i.e. travis, appveyor etc. Ex. - 
+## Tech/framework used
 
-[![Build Status](https://travis-ci.org/akashnimare/foco.svg?branch=master)](https://travis-ci.org/akashnimare/foco)
-[![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/akashnimare/foco?branch=master&svg=true)](https://ci.appveyor.com/project/akashnimare/foco/branch/master)
+<b>Built with</b>
+
+* html
+* css
+* javascript
+* react
+* react-router
+* react-bootstrap
 
 ## Code style
 If you're using any code style like xo, standard etc. That will help others while contributing to your project. Ex. -
@@ -17,15 +22,7 @@ If you're using any code style like xo, standard etc. That will help others whil
  
 ## Screenshots
 Include logo/demo screenshot etc.
-
-## Tech/framework used
-Ex. -
-
-<b>Built with</b>
-- [Electron](https://electron.atom.io)
-
-## Features
-What makes your project stand out?
+[(https://images.pexels.com/photos/1804035/pexels-photo-1804035.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)]
 
 ## Code Example
 Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
